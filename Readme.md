@@ -70,7 +70,6 @@ The repository contains the project documentation and individual team-member sub
 | TC-03 | Post-Interview Scorecard Recording | 
 | TC-04 | Privacy / Soft-Deletion | 
 
----
 
 ## Repository Structure
 
