@@ -64,7 +64,7 @@ The repository contains the project documentation and individual team-member sub
 ## Test Cases
 
 | Test Case | Description | 
-|---|---|---|
+|---|---|
 | TC-01 | Mentor Matching & Booking |
 | TC-02 | Double-Booking Prevention |
 | TC-03 | Post-Interview Scorecard Recording | 
