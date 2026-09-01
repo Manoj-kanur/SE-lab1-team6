@@ -5,15 +5,6 @@
 A platform designed to connect students with alumni mentors for mock interviews and mentorship sessions. The system supports mentor matching, session booking, double-booking prevention, post-interview scorecard recording, and privacy-focused data handling.
 
 
-## Team Members
-
-| SRN | Name |
-|---|---|
-| PES1UG24AM181 | Nishkal M R |
-| PES1UG24AM151 | M N S Abhiram |
-| PES1UG24AM125 | K R Manoj |
-| PES1UG24AM127 | K Ravish Rao |
-
 
 ## Project Objective
 
